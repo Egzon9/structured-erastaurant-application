@@ -1,0 +1,29 @@
+{
+  "name": "structured-erastaurant-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Egzon9/structured-erastaurant-application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Egzon9/structured-erastaurant-application/issues"
+  },
+  "homepage": "https://github.com/Egzon9/structured-erastaurant-application#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "firebase": "^8.6.3",
+    "nodemon": "^2.0.7"
+  }
+}
